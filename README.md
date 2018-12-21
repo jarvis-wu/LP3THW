@@ -7,12 +7,12 @@ This is a code repo for exercises from Zed Shaw's book Learn Python 3 the Hard W
 To get a copy of the project up and running on your local machine, you need to have at least:
 * [Python 3.x for your OS](https://www.python.org/downloads/),
 * A text editor, e.g. [Atom](https://atom.io) or [Sublime Text](https://www.sublimetext.com)
-And then do `git clone https://github.com/jarvis-wu/LP3THW.git` in Terminal.
+* `git clone https://github.com/jarvis-wu/LP3THW.git` in Terminal.
 
 ## Notes
 
-- Go to Python console by running `python3` in Terminal
-- Quit Python console by running `quit()`
+- [ ] Go to Python console by running `python3` in Terminal
+- [ ] Quit Python console by running `quit()`
 
 ## Authors
 
